@@ -228,3 +228,6 @@ This repository serves as the official landing page for AVS DVD Player. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of AVS DVD Player today!**
+
+---
+**Last updated:** 2026-09-12 13:54:44 UTC
