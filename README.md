@@ -230,4 +230,4 @@ This repository serves as the official landing page for AVS DVD Player. The soft
 **Get the most recent version of AVS DVD Player today!**
 
 ---
-**Last updated:** 2026-10-24 14:19:41 UTC
+**Last updated:** 2026-10-24 17:56:32 UTC
